@@ -1,10 +1,10 @@
 function Navbar() {
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-primary sticky-top">
+    <nav className="navbar navbar-expand-lg navbar-light sticky-top hv-navbar shadow-sm">
       <div className="container">
-        <a className="navbar-brand d-flex align-items-center gap-2" href="#perfil">
+        <a className="navbar-brand d-flex align-items-center gap-2 fw-bold" href="#perfil">
           <i className="bi bi-person-badge-fill fs-4"></i>
-          Carlos Pérez
+          Valentina Ríos
         </a>
 
         <button

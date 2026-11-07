@@ -1,3 +1,4 @@
+import './estilos.css';
 import Navbar from './components/Navbar';
 import Perfil from './components/Perfil';
 import SobreMi from './components/SobreMi';
